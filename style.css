@@ -1,0 +1,28 @@
+.back{
+    background-color: rgba(53,58,64,255);
+}
+
+.tickets{
+    color: #1aa92b;
+}
+
+.btn-success{
+   background-color: #1aa92b;
+}
+
+.hero {
+    background:rgba(0, 0, 0, 0.5) url(img/ba1.jpg);
+    background-blend-mode: darken;
+    height: 85vh;
+    background-size: cover;
+    background-position-y: bottom;
+    padding: 16vh 0 10vh 0;
+}
+
+.subrayado{
+    border-bottom:2px dotted #272734;
+}
+
+footer{
+    background-color: #1d4963;
+}
